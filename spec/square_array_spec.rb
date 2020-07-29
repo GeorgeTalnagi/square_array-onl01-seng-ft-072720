@@ -20,3 +20,11 @@ describe '#square_array' do
   end
 
 end
+
+def square_array
+  numbers = [1,2,3]
+  numbers.each do |new_number|
+    puts "#{new_number}"
+
+    end
+end
